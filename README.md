@@ -1,4 +1,4 @@
-## Report
+![image](https://github.com/HugoLee99/BattleShip_game_Java_base/assets/112469468/1f3f973b-1af3-4a0d-8c29-9e336be34141)## Report
 
 ## Finish time
 
@@ -154,32 +154,25 @@ Catch an exception thrown with an unexpected input (i.e, if users enters anythin
 
 from “exit” or “row,column” coordinates. When the error occurs, print “Incorrect input”. 
 
-<img src="C:\Users\31684\AppData\Roaming\Typora\typora-user-images\image-20221030160204438.png" alt="image-20221030160204438" style="zoom:67%;" />
+
 
 ## How to run the game
 
 After starting the code. you are required to set the row, column and number of ship for game.(press "enter" after insert the number)
 
-<img src="C:\Users\31684\AppData\Roaming\Typora\typora-user-images\image-20221030115338967.png" alt="image-20221030115338967" style="zoom:67%;" />
+
 
 Then, the program will initialize the player's grid and opponent's grid automatically. Then you can insert the coordinate you want to attack in grid. (use "," to apart row and column) for instance input 1,2  mean is want to attack row 2 and column 3.)
 
-<img src="C:\Users\31684\AppData\Roaming\Typora\typora-user-images\image-20221030150658788.png" alt="image-20221030150658788" style="zoom: 50%;" />
+
 
 (use "," to apart row and column) for instance input 1,2  mean is want to attack row 2 and column 3.)
 
-As you can see, row 2 column 3 was attacked.(unfortunately, enemy battleship is not here) and you can see the enemy didn't find your ship too.
 
 The program will keep asking you to insert attack coordinate until the game finish(Either player’s or opponent’s ships are destroyed.)
 
-<img src="C:\Users\31684\AppData\Roaming\Typora\typora-user-images\image-20221030151421320.png" alt="image-20221030151421320" style="zoom:50%;" />
-
-For instance, here I won the game, and the program asked me whether I want to exist.
 
 If I enter "exit",  the program will end.
 
-<img src="C:\Users\31684\AppData\Roaming\Typora\typora-user-images\image-20221030151710271.png" alt="image-20221030151710271" style="zoom:67%;" />
-
 If not it will restart the game.
-
-<img src="C:\Users\31684\AppData\Roaming\Typora\typora-user-images\image-20221030151959359.png" alt="image-20221030151959359" style="zoom:50%;" />
+<img src="https://pic1.zhimg.com/80/v2-562b22c49c17a1c38f690fcc6061ce18_1440w.webp" style="zoom:67%;" />
