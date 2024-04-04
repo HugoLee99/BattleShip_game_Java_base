@@ -175,4 +175,3 @@ The program will keep asking you to insert attack coordinate until the game fini
 If I enter "exit",  the program will end.
 
 If not it will restart the game.
-<img src="https://pic1.zhimg.com/80/v2-562b22c49c17a1c38f690fcc6061ce18_1440w.webp" style="zoom:67%;" />
